@@ -1,0 +1,16 @@
+Fixing defects to v7 final
+OM features into a v7 package for sales guys
+Create a detailed wireframe of Kentico+ portal
+Make changes to DevNet home page
+
+We did:
+
+Created OM Features package (needs to be tested though)
+Improved search abilities on Devnet.Kentico.com
+Started a research for NEW Devnet Portal
+Created new custom index for documentation on Devnet
+
+We will do:
+
+Devnet Home page personalization
+Create first draft of Kentico+ portal according to Dominik's requirements
